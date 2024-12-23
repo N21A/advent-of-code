@@ -21,7 +21,7 @@ try:
 
     # Declare variables
     sum = 0
-    surface_area = 0
+    total_wrap = 0
 
     # Define the regex pattern used to extract integers
     pattern = r"(\d+)x(\d+)x(\d+)"
@@ -34,10 +34,22 @@ try:
             presents.append((present.groups()))
     
     for value in presents:
+        sides = []
         l, w, h = map(int, value)
 
         # 01: Calculate surface area of box
         surface_area = 2*l*w + 2*w*h + 2*h*l
+
+        # 02: Calculate the smallest side
+        sides = [l*w, w*h, h*l]
+        smallest_side = min(sides)
+
+        # 03: Calculate wrap_needed
+        wrap_needed = surface_area + smallest_side
+
+        total_wrap += wrap_needed
+
+    print("Total wrap required:", total_wrap, "square feet")
 
 
     # Close the file
