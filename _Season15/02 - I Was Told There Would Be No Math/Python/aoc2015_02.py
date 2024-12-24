@@ -22,6 +22,7 @@ try:
     # Declare variables
     sum = 0
     total_wrap = 0
+    total_ribbon = 0
 
     # Define the regex pattern used to extract integers
     pattern = r"(\d+)x(\d+)x(\d+)"
@@ -37,19 +38,32 @@ try:
         sides = []
         l, w, h = map(int, value)
 
-        # 01: Calculate surface area of box
+        # 01.01: Calculate surface area of box
         surface_area = 2*l*w + 2*w*h + 2*h*l
 
-        # 02: Calculate the smallest side
+        # 01.02: Calculate the smallest side
         sides = [l*w, w*h, h*l]
         smallest_side = min(sides)
 
-        # 03: Calculate wrap_needed
+        # 01.03: Calculate wrap_needed
         wrap_needed = surface_area + smallest_side
 
+        # 02.01: Calculate the smallest perimeter
+        perimeters = [2*l+2*w, 2*w+2*h,2*h+2*l]
+        smallest_perimeter = min(perimeters)
+
+        # 02.02: Calculate the cubic volume of the present
+        volume = l*w*h
+
+        # 02.03: Calculate ribbon needed
+        ribbon_needed = smallest_perimeter + volume
+
         total_wrap += wrap_needed
+        total_ribbon += ribbon_needed
 
     print("Total wrap required:", total_wrap, "square feet")
+
+    print("Total ribbon required:", total_ribbon, "feet")
 
 
     # Close the file
