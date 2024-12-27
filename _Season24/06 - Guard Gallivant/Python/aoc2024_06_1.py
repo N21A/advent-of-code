@@ -116,7 +116,7 @@ def move_guard(grid, current_pos, visited):
     visited.add((new_y, new_x))
     return (new_y, new_x)
 
-if __name__ == "__main__":
+def main():
     grid = get_map_from_file()
     start_pos = find_starting_coords(grid)
     visited = {start_pos}
@@ -133,3 +133,6 @@ if __name__ == "__main__":
             current_pos = result
 
     print("Distinct positions visited:", len(visited))
+
+if __name__ == "__main__":
+    main()
