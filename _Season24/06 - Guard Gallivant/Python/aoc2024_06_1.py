@@ -9,8 +9,6 @@ Description:
 - Solution to Part 1 (Part 2 in aoc2024_06_2.py)
 """
 
-# PYTHON 2D ARRAY SYNTAX: [y][x]
-
 def get_map_from_file():
     """
     Gets map information from the input file.

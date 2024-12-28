@@ -41,6 +41,7 @@ def evaluate_expression(numbers, operators):
             result += numbers[i+1]
         elif op == '*':
             result *= numbers[i+1]
+            
     return result
 
 def check_valid_equation(target, numbers):
