@@ -37,22 +37,6 @@ def parse_map(grid):
 
     return antennas
 
-def is_collinear(p1, p2, p3):
-    """
-    Checks if three points are collinear.
-        -> Uses slope formula for two pairs of points: (p1, p2) and (p1, p3)
-        -> If the slopes are equal, the points are collinear.
-    """
-    # Uses cross-multiplication to check the equality of both sides
-    return (p2[1] - p1[1]) * (p3[0] - p1[0]) == (p3[1] - p1[1]) * (p2[0] - p1[0])
-
-def distance(p1, p2):
-    """
-    Calculates the distance between points p1 and p2.
-        -> Uses the formula for distance between two points.
-    """
-    return (((p2[0] - p1[0]) ** 2) + ((p2[1] - p1[1]) ** 2)) ** 0.5
-
 def find_antinodes(antennas, width, height):
     """
     Determines all unique antinode locations caused by antenna pairs.
