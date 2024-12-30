@@ -1,0 +1,14 @@
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.AssemblyInfoInputs.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.AssemblyInfo.cs
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.csproj.CoreCompileInputs.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\bin\Debug\net9.0\HistorianHysteria.exe
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\bin\Debug\net9.0\HistorianHysteria.deps.json
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\bin\Debug\net9.0\HistorianHysteria.runtimeconfig.json
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\bin\Debug\net9.0\HistorianHysteria.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\bin\Debug\net9.0\HistorianHysteria.pdb
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\refint\HistorianHysteria.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.pdb
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\HistorianHysteria.genruntimeconfig.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\01 - Historian Hysteria\C#\HistorianHysteria\obj\Debug\net9.0\ref\HistorianHysteria.dll
