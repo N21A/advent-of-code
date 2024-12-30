@@ -9,10 +9,6 @@ Description:
 - Solution to Part 2 (Part 1 in aoc2024_01_1.cs)
 */
 
-using System;
-using System.Collections.Generic;
-using AdventOfCode2024;
-
 class Part2
 {
 

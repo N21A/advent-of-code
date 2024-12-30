@@ -6,12 +6,8 @@ Date: 30/12/2024
 ----------------
 Description:
 - Advent of Code 2024 Day 1: Historian Hysteria
-- Shared Functions
+- Shared functions
 */
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Runtime.InteropServices;
 
 namespace AdventOfCode2024;
 

@@ -9,9 +9,7 @@ Description:
 - Main program entry point with menu selection for Part 1 or Part 2
 */
 
-using System;
 using AdventOfCode2024;
-using Microsoft.VisualBasic;
 
 class Program
 {

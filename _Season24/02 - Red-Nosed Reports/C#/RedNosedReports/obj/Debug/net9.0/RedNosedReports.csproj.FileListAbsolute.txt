@@ -1,0 +1,14 @@
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.AssemblyInfoInputs.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.AssemblyInfo.cs
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.csproj.CoreCompileInputs.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\bin\Debug\net9.0\RedNosedReports.exe
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\bin\Debug\net9.0\RedNosedReports.deps.json
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\bin\Debug\net9.0\RedNosedReports.runtimeconfig.json
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\bin\Debug\net9.0\RedNosedReports.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\bin\Debug\net9.0\RedNosedReports.pdb
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\refint\RedNosedReports.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.pdb
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\RedNosedReports.genruntimeconfig.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season24\02 - Red-Nosed Reports\C#\RedNosedReports\obj\Debug\net9.0\ref\RedNosedReports.dll
