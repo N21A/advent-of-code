@@ -1,0 +1,14 @@
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.AssemblyInfoInputs.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.AssemblyInfo.cs
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.csproj.CoreCompileInputs.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\bin\Debug\net9.0\NotQuiteLisp.exe
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\bin\Debug\net9.0\NotQuiteLisp.deps.json
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\bin\Debug\net9.0\NotQuiteLisp.runtimeconfig.json
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\bin\Debug\net9.0\NotQuiteLisp.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\bin\Debug\net9.0\NotQuiteLisp.pdb
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\refint\NotQuiteLisp.dll
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.pdb
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\NotQuiteLisp.genruntimeconfig.cache
+C:\Users\nidaa\OneDrive\Programming\Advent of Code\_Season15\01 - Not Quite Lisp\C#\NotQuiteLisp\obj\Debug\net9.0\ref\NotQuiteLisp.dll
