@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj": {}
+    "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj": {
+    "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj",
+        "projectUniqueName": "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj",
         "projectName": "HistorianHysteria",
-        "projectPath": "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj",
+        "projectPath": "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\HistorianHysteria.csproj",
         "packagesPath": "C:\\Users\\nidaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\obj\\",
+        "outputPath": "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\01 - Historian Hysteria\\C#\\HistorianHysteria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nidaa\\AppData\\Roaming\\NuGet\\NuGet.Config"

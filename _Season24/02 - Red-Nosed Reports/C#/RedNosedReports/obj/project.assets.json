@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\02 - Red-Nosed Reports\\C#\\RedNosedReports\\RedNosedReports.csproj",
+      "projectUniqueName": "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\02 - Red-Nosed Reports\\C#\\RedNosedReports\\RedNosedReports.csproj",
       "projectName": "RedNosedReports",
-      "projectPath": "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\02 - Red-Nosed Reports\\C#\\RedNosedReports\\RedNosedReports.csproj",
+      "projectPath": "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\02 - Red-Nosed Reports\\C#\\RedNosedReports\\RedNosedReports.csproj",
       "packagesPath": "C:\\Users\\nidaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nidaa\\OneDrive\\Programming\\Advent of Code\\_Season24\\02 - Red-Nosed Reports\\C#\\RedNosedReports\\obj\\",
+      "outputPath": "C:\\Users\\nidaa\\OneDrive\\GitHub\\advent-of-code\\_Season24\\02 - Red-Nosed Reports\\C#\\RedNosedReports\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nidaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
