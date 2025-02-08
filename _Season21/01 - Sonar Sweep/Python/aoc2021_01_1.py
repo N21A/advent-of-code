@@ -19,25 +19,25 @@ def get_measurements_from_file():
     
     return measurements
 
-def count_measurement_increases(measurements):
-    """Count the number of measurement increases."""
+def count_array_increases(array):
+    """Count the number of increases in an array."""
     increases = 0
 
-    for i in range(0, len(measurements)):
+    for i in range(0, len(array)):
         if i == 0:
             continue
 
-        if measurements[i] - measurements[i-1] > 0:
+        if array[i] - array[i-1] > 0:
             increases += 1
     
     return increases
 
 def main():
     measurements = get_measurements_from_file()
-    increases = count_measurement_increases(measurements)
+    increases = count_array_increases(measurements)
 
     print(f"The number of measurement increases is: {increases}")
     
 
-if __name__ == main():
+if __name__ == "__main__":
     main()
