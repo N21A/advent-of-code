@@ -8,6 +8,7 @@ Description:
 - Advent of Code 2015 Day 1: Not Quite Lisp
 - Shared functions
 */
+
 using System.IO;
 
 namespace AdventOfCode2015;

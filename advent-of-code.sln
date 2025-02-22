@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Season15", "_Season15", "{7F0266CC-AF37-013F-3591-64DF62B5A26D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Season24", "_Season24", "{0EFE86A6-1537-EE69-12B3-3C249FFEE169}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Not Quite Lisp", "01 - Not Quite Lisp", "{011EE91A-FC06-608A-5162-61A44420EA7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#", "_Season15\01 - Not Quite Lisp\C#\C#.csproj", "{CEF593E8-F46A-35DE-38F9-14BF06E45EAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Historian Hysteria", "01 - Historian Hysteria", "{F8A36A7B-B830-0B90-A706-4DADFA3A2A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#", "_Season24\01 - Historian Hysteria\C#\C#.csproj", "{9E5792F7-1454-7188-AD5A-3F390FE491FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF593E8-F46A-35DE-38F9-14BF06E45EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF593E8-F46A-35DE-38F9-14BF06E45EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF593E8-F46A-35DE-38F9-14BF06E45EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF593E8-F46A-35DE-38F9-14BF06E45EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5792F7-1454-7188-AD5A-3F390FE491FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5792F7-1454-7188-AD5A-3F390FE491FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5792F7-1454-7188-AD5A-3F390FE491FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5792F7-1454-7188-AD5A-3F390FE491FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{011EE91A-FC06-608A-5162-61A44420EA7D} = {7F0266CC-AF37-013F-3591-64DF62B5A26D}
+		{CEF593E8-F46A-35DE-38F9-14BF06E45EAB} = {011EE91A-FC06-608A-5162-61A44420EA7D}
+		{F8A36A7B-B830-0B90-A706-4DADFA3A2A6C} = {0EFE86A6-1537-EE69-12B3-3C249FFEE169}
+		{9E5792F7-1454-7188-AD5A-3F390FE491FA} = {F8A36A7B-B830-0B90-A706-4DADFA3A2A6C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94FBB945-90EE-4792-8433-581284267058}
+	EndGlobalSection
+EndGlobal

@@ -19,8 +19,9 @@ def get_input_from_file():
             row = line.split()
             list1.append(row[0])
             list2.append(row[1])
-            list1.sort()
-            list2.sort()
+    
+    list1.sort()
+    list2.sort()
     
     return (list1, list2)
 
